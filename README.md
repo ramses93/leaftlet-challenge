@@ -7,3 +7,7 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
 ## Analysis
+### Basic Visualization (Step 1)
+In this part, Earthquake data is visualized in the Map. Each Earthquake is visualized on its epicenter, and the magnitude is represented by the color and size of the circle:
+
+![Screenshot](/Screenshots/step1.png)
