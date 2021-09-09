@@ -11,3 +11,9 @@ The USGS is interested in building a new set of tools that will allow them visua
 In this part, Earthquake data is visualized in the Map. Each Earthquake is visualized on its epicenter, and the magnitude is represented by the color and size of the circle:
 
 ![Screenshot](/Screenshots/step1.png)
+
+### More Data (Step 2)
+The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates.
+
+Regarding the above description, the scripts were created so the website display these relations in the map.
+![Screenshot](/Screenshots/step2.png)
